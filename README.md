@@ -1,10 +1,10 @@
-## [Aoba!](https://heylucasleao.com.br/) 👋
+## [Aoba!]([https://heylucasleao.com.br/](https://heylucasleao.github.io/)) 👋
 
+- [Site](https://heylucasleao.github.io/)
 - [TinyCP](https://github.com/HeyLucasLeao/tinycp)
 - [TinyShift](https://github.com/HeyLucasLeao/tinyshift)
 - [Feature Residualizer](https://github.com/HeyLucasLeao/feature-residualizer/)
 - [OLS Regression Challenge](https://github.com/HeyLucasLeao/ols-regression-challenge)
--  [Meu Modelo Conforme](https://heylucasleao.com.br/Meu-Modelo-Conforme-134a0de3378e80728ad4f279c80fb065)
 
 <!--
 **HeyLucasLeao/HeyLucasLeao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
